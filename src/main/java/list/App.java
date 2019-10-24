@@ -1,7 +1,5 @@
 package list;
 
-import com.sun.codemodel.internal.JForEach;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

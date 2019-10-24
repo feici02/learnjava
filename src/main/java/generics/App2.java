@@ -3,7 +3,7 @@ package generics;
 import java.util.ArrayList;
 import java.util.List;
 
-public class App {
+public class App2 {
     private static <T> List<T> arrayToList(T[] array) {
         List<T> list = new ArrayList<>();
 
