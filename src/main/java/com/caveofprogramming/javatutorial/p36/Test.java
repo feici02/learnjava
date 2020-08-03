@@ -7,6 +7,6 @@ public class Test {
     public static void run() throws IOException, ParseException {
         // throw new IOException();
 
-        throw new ParseException("Error in command list.", 2);
+        throw new ParseException("Error in command com.feici02.java.collections.list.", 2);
     }
 }

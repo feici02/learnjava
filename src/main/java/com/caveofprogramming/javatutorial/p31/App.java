@@ -1,4 +1,4 @@
-// generics and wildcards
+// com.feici02.java.generics and wildcards
 
 package com.caveofprogramming.javatutorial.p31;
 
@@ -40,8 +40,8 @@ public class App {
         showMachines(cameras);
     }
 
-    // private static void showMachines(List<?> list) {
-    //     for(Object value: list) {
+    // private static void showMachines(List<?> com.feici02.java.collections.list) {
+    //     for(Object value: com.feici02.java.collections.list) {
     //         System.out.println(value);
     //     }
     // }
